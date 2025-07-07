@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-website-2z35.onrender.com" target="_blank">
+<!--   <a href="https://.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=firefox-browser" />
-  </a>
+  </a> -->
   <a href="mailto:ashutosh9354@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ashutoshsingh9354@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -77,13 +77,13 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashutoshkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/ashutoshkumar70" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:ashutosh54@gmail.com">
+  <a href="mailto:ashutosh9354@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://portfolio-website-2z35.onrender.com" target="_blank">
+<!--   <a href="https://.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Explore-brightgreen?style=for-the-badge&logo=firefox" />
-  </a>
+  </a> -->
 </p>

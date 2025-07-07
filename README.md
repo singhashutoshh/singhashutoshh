@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-ashutoshsingh9354@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ashutoshkumar70" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ashutoshkumar-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-ashutoshkumar70-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 

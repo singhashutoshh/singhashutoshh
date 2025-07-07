@@ -22,7 +22,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working on **MERN stack full-stack applications**
-- 🌱 Exploring **Next.js**, **TypeScript**, and **Appwrite**
+- 🌱 Exploring **Figma**, and **Appwrite**
 - 💬 Ask me about anything related to **React, Node, Express, MongoDB, Redux, Tailwind**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-website-2z35.onrender.com)
 - 📫 Reach me at: **ashutosh9354@gmail.com**

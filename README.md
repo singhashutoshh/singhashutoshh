@@ -24,7 +24,7 @@
 - 🔭 Currently working on **MERN stack full-stack applications**
 - 🌱 Exploring **Figma**, and **Appwrite**
 - 💬 Ask me about anything related to **React, Node, Express, MongoDB, Redux, Tailwind**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-website-2z35.onrender.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.com)
 - 📫 Reach me at: **ashutosh9354@gmail.com**
 - 📄 [View Resume](https://drive.google.com/file/d/1YAyWR9_iMjntlOc8-W50FzaFXuV4EYRn/view?usp=drive_link)
 

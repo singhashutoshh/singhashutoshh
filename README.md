@@ -25,10 +25,12 @@
 - 🌱 Exploring **Next.js**, **TypeScript**, and **Appwrite**
 - 💬 Ask me about anything related to **React, Node, Express, MongoDB, Redux, Tailwind**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-website-2z35.onrender.com)
-- 📫 Reach me at: **ashutosh54@gmail.com**
+- 📫 Reach me at: **ashutosh9354@gmail.com**
 - 📄 [View Resume](https://drive.google.com/file/d/1YAyWR9_iMjntlOc8-W50FzaFXuV4EYRn/view?usp=drive_link)
 
 ---
+### ⚙️ Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
@@ -49,10 +51,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
-### ⚙️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,firebase,postman,figma,appwrite,python" />
+<!--   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,firebase,postman,figma,appwrite,python" /> -->
 </p>
 
 ---

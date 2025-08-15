@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently working on **MERN stack full-stack applications**
+- 🔭 Currently working on **MERN full-stack applications**
 - 🌱 Exploring **Figma**, and **Appwrite**
 - 💬 Ask me about anything related to **React, Node, Express, MongoDB, Redux, Tailwind**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio.com)
